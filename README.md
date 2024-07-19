@@ -1,1 +1,1 @@
-# Tech-A-Intern-Image-Slider
+An Image Slider that showcases multiple images that can slider manually.
